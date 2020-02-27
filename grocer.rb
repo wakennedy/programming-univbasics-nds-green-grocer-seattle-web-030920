@@ -27,6 +27,7 @@ def consolidate_cart(cart)
         :count => 1 
       }
       new << array
+    end
     i+=1 
     
   
